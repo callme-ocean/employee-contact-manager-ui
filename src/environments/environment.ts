@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiBaseUrl: 'http://localhost:8080'
+  apiBaseUrl: 'https://employee-contact-manager-service-production.up.railway.app:8080'
 };
 
 /*
