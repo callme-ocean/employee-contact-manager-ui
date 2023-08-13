@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiBaseUrl: 'https://employee-contact-manager-service-production.up.railway.app'
+  apiBaseUrl: 'https://employee-contact-manager-service.onrender.com/employeeservice'
 };
 
 /*
